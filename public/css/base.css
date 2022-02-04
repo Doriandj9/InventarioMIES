@@ -1,0 +1,10 @@
+:root{
+    --color-uno: #fbb201;
+    --color-dos: #002d80;
+    --color-tres: #dd0000;
+    --color-texto-blaco: white;
+    --padding: 1rem;
+    --border-radius-min: 0.5rem;
+    --border-radius-reg: 1rem;
+    --border-radius-max: 1.5rem;
+}

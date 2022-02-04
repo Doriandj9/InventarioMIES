@@ -1,0 +1,14 @@
+@import url('base.css');
+
+.menu-login__form-layout > button:hover{
+    background-color: #ccc;
+    color: var(--color-dos);
+}
+
+.content-card > a{
+    transition: all 800ms;
+}
+
+.content-card > a:hover{
+ transform: scale(1.1);   
+}

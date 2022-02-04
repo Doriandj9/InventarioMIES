@@ -1,0 +1,27 @@
+{
+    "name": "dorian/htdocs",
+    "description": "Es un sistema de inventario de activos que se entregan a trabajadores de la empresa mediante una acta donde consta en que estado se entrego dicho activo",
+    "type": "project",
+    "require": {
+        "barryvdh/laravel-dompdf": "1.0.x-dev"
+    },
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Dorian Armijos",
+            "email": "dorian9armijos@gmail.com",
+            "role": "Programador",
+            "homepage": "https://dorianarmijos.000webhostapp.com/"
+        }
+        
+    ],
+    "autoload": {
+        "psr-4": {
+            "controllers\\": "src/controllers/",
+            "aplication\\": "src/aplication/",
+            "frame\\": "src/frame/",
+            "models\\": "models/"
+        }
+    },
+    "minimum-stability": "dev"
+}
