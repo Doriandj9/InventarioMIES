@@ -3,6 +3,7 @@ Este es un sistema desarrollado para el MIES por un grupo de desarrollo de softw
 
 ## Integrantes del grupo de desarrollo 
 
+- [Dorian Armijos](https://github.com/Doriandj9)
 - [Bryan Chiliquina](#)
 ```html
 El sistema de Sistema de Inventario se base en el patron arquitectonico MVC(Model View Controller) 
